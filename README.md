@@ -75,5 +75,5 @@ Using the final dataset, the following insights are derived:
 │ ├── users.json
 │ └── restaurants.sql
 ├── final_food_delivery_dataset.csv
-├── analysis.ipynb
+├── analysis.py
 └── README.md
